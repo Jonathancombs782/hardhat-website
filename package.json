@@ -21,12 +21,12 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/partytown": "^2.1.4",
     "@astrojs/starlight": "^0.36.0",
-    "@astrojs/vercel": "^8.2.8",
+    "@astrojs/vercel": "^10.0.2",
     "@expressive-code/plugin-collapsible-sections": "^0.41.3",
     "@expressive-code/plugin-line-numbers": "^0.41.3",
     "@nomicfoundation/hardhat-errors": "^3.0.6",
     "@types/tar-stream": "^3.1.4",
-    "astro": "^5.6.1",
+    "astro": "^6.4.6",
     "cspell": "^9.2.2",
     "github-slugger": "^2.0.0",
     "gsap": "^3.13.0",
@@ -41,6 +41,6 @@
     "starlight-sidebar-topics": "^0.6.1",
     "tar-stream": "^3.1.7",
     "typescript": "5.9.3",
-    "undici": "^7.16.0"
+    "undici": "^7.28.0"
   }
 }
